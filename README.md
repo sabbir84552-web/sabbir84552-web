@@ -1,4 +1,4 @@
-# Hi there, I'm Sabbir! 👋
+# Hi, I'm Sabbir! 👋
 
 ### 🚀 About Me
 - 🎓 Full-Stack Web Development graduate.
