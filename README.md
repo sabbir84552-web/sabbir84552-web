@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,30&height=220&section=header&text=Md%20Sabbir&fontSize=42&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20React%20%26%20Next.js&descSize=18&descAlignY=62&fontColor=ffffff" alt="Md Sabbir Banner" width="100%" />
+</p>
 <h1 align="center">Hi, I'm Md Sabbir 👋</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
