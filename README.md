@@ -1,83 +1,141 @@
-<h1 align="center">Hi, I'm Md Sabbir 👋</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<!-- ═══════════ HEADER (animated wave) ═══════════ -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md%20Sabbir&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=22&descAlignY=60" alt="header" />
+</div>
 
-<!-- Dynamic Typing Animation -->
-<p align="center">
+<!-- ═══════════ TYPING ANIMATION ═══════════ -->
+<div align="center">
   <a href="https://github.com/sabbir84552-web">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Web+Applications;Exploring+Next.js,+React+19+%26+TypeScript;Crafting+Responsive+UIs+with+Tailwind;Passionate+about+Clean+%26+Optimized+Code&font=Fira+Code&center=true&width=550&height=50&color=38B2AC&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&height=60&lines=Building+Scalable+Web+Applications;React+19+%7C+Next.js+%7C+TypeScript;Crafting+Pixel-Perfect+Responsive+UIs;Clean+%26+Optimized+Code+is+my+Obsession;Open+for+Freelance+%26+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabbir84552-web&label=Profile%20Views&color=38B2AC&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" alt="status" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-0ea5e9?style=for-the-badge" alt="location" />
+</div>
+
+<br/>
+
+<!-- ═══════════ CONTACT ═══════════ -->
+<p align="center">
+  <a href="https://wa.me/8801813905278"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/md-sabbir-72184b3b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sabbir84552@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/md.sabbir.hossain.128020"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/s_a_b_b_i_r_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<br/>
+---
 
-### 🚀 About Me
-- 🔭 I’m currently building advanced full-stack projects using **React 19, Next.js, and Tailwind CSS**.
-- 🌱 I’m deepening my knowledge in **TypeScript** and modern backend architecture.
-- 👯 I’m looking to collaborate on open-source projects and share knowledge for positive community impact.
-- ⚡ Fun fact: When I'm not writing code, I enjoy urban gardening and taking care of my poultry birds!
+## 👨‍💻 About Me
 
-<br/>
+```js
+const sabbir = {
+  role: "Full-Stack Web Developer",
+  location: "Bangladesh 🇧🇩",
+  currentlyBuilding: ["Advanced full-stack apps", "React 19 + Next.js + Tailwind"],
+  currentlyLearning: ["TypeScript (deep dive)", "Modern backend architecture"],
+  lookingFor: ["Open-source collaboration", "Freelance & remote opportunities"],
+  funFact: "Urban gardening & poultry farming 🌱🐓 — I grow things, in code and in real life.",
+  motto: "Write clean code. Ship fast. Keep learning."
+};
+```
 
-### 🛠️ Advanced Tech Stack & Tools
-<!-- Modern categorized flat-square badges for Senior Level Look -->
+- 🔭 Building advanced full-stack projects with **React 19, Next.js and Tailwind CSS**
+- 🌱 Deepening my knowledge of **TypeScript** and modern backend architecture
+- 👯 Looking to collaborate on **open-source** projects and share knowledge
+- ⚡ Off the keyboard: urban gardening and taking care of my poultry birds
 
-**🌐 Frontend Architecture** <br/>
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+---
 
-**⚙️ Backend & Database** <br/>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+## 🛠️ Tech Stack
 
-**☁️ Cloud, Deployment & Tools** <br/>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></a>
-<a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" /></a>
-<a href="https://www.apachefriends.org/" target="_blank"><img src="https://img.shields.io/badge/XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" /></a>
+**🌐 Frontend**
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="frontend" />
+</p>
 
-### 📊 GitHub Analytics
-<table border="0" cellpadding="0" cellspacing="0" align="center">
+**⚙️ Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" alt="backend" />
+</p>
+
+**☁️ Deployment & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&perline=8" alt="tools" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabbir84552-web&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=38B2AC&bg_color=00000000" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir84552-web&layout=compact&theme=tokyonight&hide_border=true&title_color=38B2AC&bg_color=00000000" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sabbir84552-web&theme=tokyonight&hide_border=true&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC&background=00000000" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sabbir84552-web&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+</div>
+
+### 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sabbir84552-web&theme=tokyo-night&hide_border=true&bg_color=00000000&color=38B2AC&line=38B2AC&point=ffffff" alt="activity graph" />
+
+### 🐍 Contribution Snake
+
+<!-- Needs the snake.yml GitHub Action (see instructions) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabbir84552-web/sabbir84552-web/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabbir84552-web/sabbir84552-web/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/sabbir84552-web/sabbir84552-web/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- নিচের তথ্যগুলো তোমার আসল প্রজেক্ট দিয়ে বদলাও। এটাই recruiter-রা সবচেয়ে বেশি দেখে -->
+<table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/sabbir84552-web">
-        <img src="https://github-readme-stats.vercel.app/api?username=sabbir84552-web&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=888888&bg_color=00000000" alt="GitHub Stats" />
+    <td width="50%">
+      <a href="https://github.com/sabbir84552-web/YOUR-REPO-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir84552-web&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 1" />
       </a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/sabbir84552-web">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir84552-web&theme=transparent&hide_border=true&fire=38B2AC&ring=38B2AC&text_color=888888&bg_color=00000000" alt="GitHub Streak" />
+    <td width="50%">
+      <a href="https://github.com/sabbir84552-web/YOUR-REPO-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir84552-web&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 2" />
       </a>
     </td>
   </tr>
 </table>
 
+---
+
+## 🤝 Let's Work Together
+
+I build fast, responsive and maintainable web applications. If you have a project, an idea or an opportunity, message me.
+
+<div align="center">
+  <a href="https://wa.me/8801813905278"><img src="https://img.shields.io/badge/Hire%20Me%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Hire me" /></a>
+  <a href="mailto:sabbir84552@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+</div>
+
 <br/>
 
-### 📫 Let's Connect! 
-<!-- Modern Floating Contact Badges -->
-<p align="center">
-  <a href="https://wa.me/8801813905278" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-sabbir-72184b3b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/md.sabbir.hossain.128020" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/s_a_b_b_i_r_dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:sabbir84552@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<!-- ═══════════ FOOTER ═══════════ -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+</div>
